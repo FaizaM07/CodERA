@@ -1,4 +1,4 @@
-# DoodleDuck - An online programming Language Learning Platform
+# CodERA - An online programming Language Learning Platform
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -29,12 +29,12 @@
 ---
 
 ## Project Overview
-DoodleDuck is an inclusive and interactive platform that makes learning programming languages engaging and accessible. With features like real-time feedback, gamified lessons, and comprehensive progress tracking, DoodleDuck empowers learners to stay motivated and build confidence as they master coding skills.
+This is an inclusive and interactive platform that makes learning programming languages engaging and accessible. With features like real-time feedback, gamified lessons, and comprehensive progress tracking, It empowers learners to stay motivated and build confidence as they master coding skills.
 
 ---
 
 ## Motivation
-Learning to code is essential in today’s tech-driven world. However, many aspiring learners face barriers such as financial constraints, limited resources, and lack of engagement in traditional methods. DoodleDuck was designed to eliminate these challenges by providing bite-sized, engaging lessons and equipping learners with the tools they need to succeed, regardless of their background.
+Learning to code is essential in today’s tech-driven world. However, many aspiring learners face barriers such as financial constraints, limited resources, and lack of engagement in traditional methods. It was designed to eliminate these challenges by providing bite-sized, engaging lessons and equipping learners with the tools they need to succeed, regardless of their background.
 
 ---
 
@@ -96,7 +96,7 @@ Learning to code is essential in today’s tech-driven world. However, many aspi
 ---
 
 ## Application Domain
-DoodleDuck serves the Education Technology domain, targeting:
+It serves the Education Technology domain, targeting:
 - **Students**: Individuals at various educational levels seeking programming skills.
 - **Professionals**: Working professionals advancing their careers or transitioning to tech roles.
 - **Programming Enthusiasts**: Hobbyists and self-learners exploring coding for personal projects.
@@ -122,7 +122,7 @@ DoodleDuck serves the Education Technology domain, targeting:
 MongoDB installed and running.
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/FaizaM07/DoodleDuck.git
+   git clone https://github.com/FaizaM07/CodERA.git
    ```
 
 2. **Navigate to the Project Directory**:
